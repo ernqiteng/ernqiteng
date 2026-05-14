@@ -1,18 +1,3 @@
-<!--
-**ernqiteng/ernqiteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi, I'm Ern Qi 👋</h1>
 
 <p align="center">
@@ -42,14 +27,14 @@ Here are some ideas to get you started:
 
 ## Projects
 
-* **[DevCore](https://github.com/ernqiteng/GDG-Hackathon)** -  Built an agentic software delivery platform that converts natural-language tasks into reviewed GitHub pull requests through architecture planning, multi-agent code review, and automated validation workflows.
+* **[DevCore](https://github.com/ernqiteng/GDG-Hackathon)** -  Developed the frontend for an agentic software delivery platform that converts natural-language tasks into reviewed GitHub pull requests through architecture planning and multi-agent workflows.
 * **[Oracle](https://github.com/ernqiteng/ETH-Oxford-2026)** -  Engineered a full-stack Web3 prediction market platform featuring SIWE authentication, real-time belief graphs, and market sentiment analytics.
 
 ## Current Focus
 - Data Structures & Algorithms
 - Full stack Web Development
 - AI/ML Projects
-- System Design Fundamentals
+- System Design
 
 ## Let’s Connect
 - LinkedIn → https://www.linkedin.com/in/ernqiteng
