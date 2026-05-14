@@ -13,38 +13,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Ern Qi Teng</h1>
+<h1 align="center">Hi, I'm Ern Qi 👋</h1>
 
-<div align="center">
-  1st Year Computer Science @ The University of Manchester
-  <br>
-</div>
+<p align="center">
+  1st Year Computer Science Student @ The University of Manchester
+</p>
 
 ---
 ## About Me
-- Exploring full-stack web development
-- Working on personal projects to strengthen my skills
-- Passionate about building innovative solutions
-- Always eager to learn and grow in the tech industry
-
-## Technical Skills
-### Languages
- `Python` `Java` `C/C++` `JavaScript` `TypeScript` `SQL` `SystemVerilog` `Assembly` 
- 
-### Frameworks, Libraries & Web
-`FastAPI`  `Next.js` `Tkinter` `NumPy` `Pandas` `Matplotlib` `Pygame` `HTML` `CSS` 
-
-### Tools & Platforms 
-`Linux` `Git` `Supabase`
-
-## Current Focus
-* Data Structures & Algorithms
-* AI/ML projects
-* Full-stack web development
-* System Design
+- Interested in backend engineering, AI systems, and scalable web applications
+- Currently learning data structures, system design, and cloud technologies
 
 ## Achievements
 - 🥇 **1st Place: Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
+
+### Languages
+`Python` `TypeScript` `JavaScript` `Java` `C/C++` `SQL`
+
+### Frameworks & Technologies
+`FastAPI` `Next.js` `React` `HTML` `CSS`
+`NumPy` `Pandas` `Matplotlib`
+
+### Tools & Platforms
+`Linux` `Git` `Supabase`
+
+### Other
+`SystemVerilog` `Assembly` `Tkinter` `Pygame`
+
+## Projects
+
+* **[DevCore](https://github.com/ernqiteng/GDG-Hackathon)** -  Built an agentic software delivery platform that converts natural-language tasks into reviewed GitHub pull requests through architecture planning, multi-agent code review, and automated validation workflows.
+* **[Oracle](https://github.com/ernqiteng/ETH-Oxford-2026)** -  Engineered a full-stack Web3 prediction market platform featuring SIWE authentication, real-time belief graphs, and market sentiment analytics.
+
+## Current Focus
+- Data Structures & Algorithms
+- Full stack Web Development
+- AI/ML Projects
+- System Design Fundamentals
 
 ## Let’s Connect
 - LinkedIn → https://www.linkedin.com/in/ernqiteng
