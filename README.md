@@ -15,6 +15,8 @@
 ## Achievements
 - 🥇 **1st Place: Google Developer Group Build With AI Hackathon** — Best Workflow Innovation
 
+## Technical Skills
+
 ### Languages
 `Python` `TypeScript` `JavaScript` `Java` `C/C++` `SQL`
 
