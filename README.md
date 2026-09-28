@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ern Qi 👋</h1>
 
 <p align="center">
-  1st Year Computer Science Student @ The University of Manchester <br/>
+  2nd Year Computer Science Student @ The University of Manchester <br/>
   <a href="mailto:tengernqi@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ernqiteng">LinkedIn</a> •
   <a href="https://github.com/ernqiteng">GitHub</a>
